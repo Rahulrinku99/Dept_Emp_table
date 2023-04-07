@@ -1,0 +1,47 @@
+#a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.b:hover
+{
+    background-color: violet;
+
+}
+
+.c:hover
+{
+    background-color: indigo;
+    color: white;
+}
+.d:hover
+{
+    background-color: blue;
+    color: white;
+}
+.e:hover
+{
+    background-color: green;
+    color: white;
+}
+.f:hover
+{
+    background-color: yellow;
+    
+}
+.g:hover
+{
+    background-color: orange;
+
+}
+.h:hover
+{
+    background-color: red;
+    color: white;
+}
+.i:hover
+{
+    background-color: brown;
+    color: white;
+}
